@@ -4,4 +4,6 @@
 
 - This is new feature #2
 
-- Add feature #3 here
+- Add feature #3 fixbug
+
+- Add feature #4
