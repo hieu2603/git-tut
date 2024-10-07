@@ -1,3 +1,5 @@
 # Git Tutorial
 
-- This is new feature
+- This is new feature #1
+
+- This is new feature #2
